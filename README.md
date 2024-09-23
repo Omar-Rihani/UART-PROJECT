@@ -69,7 +69,3 @@ The slave Arduino controls the LED based on the received data from the master:
 
 - If the LED does not respond as expected, check the wiring and ensure that the correct pins are used.
 - Verify that the button is functioning properly and that the serial connection is established correctly.
-
-## License
-
-This project is open-source and can be modified and shared under the MIT License.
